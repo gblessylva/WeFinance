@@ -1,6 +1,4 @@
-barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fb176a1e45c24e3fb4cc94d45bebaa8b)](https://app.codacy.com/gh/BuildForSDG/Team-004-Frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/Team-004-Frontend&utm_campaign=Badge_Grade_Settings)
+This project is the front end for WeFinance, as inspired by the 2020, Build for SDG Team 004 
 
 ## About
 

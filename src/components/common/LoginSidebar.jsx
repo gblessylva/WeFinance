@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import step1 from '../../images/bgsvg.svg';
 
 class LoginSideBar extends Component {
   render() {
@@ -16,6 +17,9 @@ class LoginSideBar extends Component {
                           <p>
                             <span className="blue-span">BuildForSDG</span> connects you with the right investors to help scale your business through the five stages of SME Growth:- Existence, Survival, Success, Take-Off and Maturity
                           </p>
+                          <div className="svg">
+                                <img src={step1} alt="Step s"/>
+                          </div>
                       </div>
                   </div>
               </div>

@@ -11,16 +11,12 @@ class LoginLanding extends Component {
     return (
       <Container>
                 <div className='landing'>
-          <div className='auth-right'>
           <Login
               subHeader="Investors Login"
             />
-          </div>
-          <div className='auth-left'>
           <LoginSideBar
                 heading="Support a Business to"
             />
-          </div>
         </div>
       </Container>
     );

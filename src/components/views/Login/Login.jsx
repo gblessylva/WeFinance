@@ -16,7 +16,7 @@ const fields = [
 class Login extends Component {
   render() {
     return (
-        <div className="login-wrapper">
+        <div>
           <form action="">
             <div className='login-form-header'>
               <h2>{this.props.subHeader}</h2>

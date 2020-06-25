@@ -11,18 +11,17 @@ class LoginLanding extends Component {
     return (
       <Container>
                 <div className='landing'>
-                  <diiv className='auth-right'>
+                  <div className='login-wrapper'>
                   <Login
               // header='BuildForSDG'
               subHeader="SME Login Page"
             />
-                  </diiv>
-                  <div className='auth-left'>
+                  </div>
+
                   <LoginSideBar
-                heading="Let’s Help your Business"
+                   heading="Let’s Help your Business"
 
             />
-                  </div>
         </div>
       </Container>
 

@@ -11,16 +11,12 @@ class SignupLanding extends Component {
     return (
       <Container>
                 <div className='landing'>
-                  <div className='auth-right'>
                   <Signup
               subHeader="Investor Registration"
             />
-                  </div>
-                  <div className='auth-left'>
                   <LoginSideBar
                 heading="Support a Business to"
             />
-                  </div>
         </div>
       </Container>
     );
